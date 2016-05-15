@@ -1,0 +1,16 @@
+/target/
+
+
+# eclipse file
+*.classpath
+*.project
+.settings/*
+.metadata/*
+
+# idea
+*.iml
+*.idea
+*.DS_Store
+
+# maven folder
+target/*
