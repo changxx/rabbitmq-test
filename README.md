@@ -6,7 +6,7 @@
     <li>api返回实体以DTO结尾</li>
     <li>
         工程依赖关系如下：
-        <img src="http://haitao.nosdn1.127.net/iq91cpx018_1082_746.jpg"/>
+        http://haitao.nosdn1.127.net/iq91cpx018_1082_746.jpg
         <pre>
             haitao-matter-api    haitao-matter-service
                             |            |
